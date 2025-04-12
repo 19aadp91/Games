@@ -15,7 +15,7 @@ El objetivo es **sobrevivir** el mayor tiempo posible esquivando a los enemigos 
 ## 🛠️ Instalación  
 1️⃣ **Clona el repositorio** o descarga los archivos del proyecto.  
 ```sh
-git clone https://github.com/usuario/space-battle.git  #no existe 
+git clone https://github.com/19aadp91/Games.git
 
 2️⃣ **Instala las dependencias antes de ejecutar el juego.**
 
